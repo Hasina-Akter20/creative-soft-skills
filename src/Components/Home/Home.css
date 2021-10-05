@@ -40,3 +40,21 @@
 .visit-button:hover {
   background-color: #6151be;
 }
+.courses-load {
+  border: none;
+
+  padding: 14px 28px;
+  background-color:  #4c39b5;
+
+  font-size: 19px;
+  text-decoration: none;
+  color: white;
+  border-radius: 5px;
+  box-shadow: 5px 4px 13px 0 rgba(75, 131, 252);
+}
+
+.service-load:hover {
+  background-color: #66cfa9;
+  transition: 0.5s;
+  color: white;
+}

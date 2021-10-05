@@ -1,4 +1,3 @@
-/* footer  */
 .footer {
   display: flex;
   flex-direction: column;
@@ -6,8 +5,43 @@
   background-color: #1e2845;
   color: white;
 }
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+}
+.footer-left {
+  width: 30%;
+  text-align: left;
+  padding-top: 30px;
+  padding-left: 100px;
+}
+.footer-center {
+  padding-top: 70px;
+}
 
+.footer-img {
+  width: 100px;
+  margin-bottom: 5px;
+}
+.copy-right {
+  font-weight: 600;
+  color: gray;
+}
 .footer-info {
   display: flex;
-  justify-content: center;
+  width: 200px;
+}
+.footer-left p {
+  color: white;
+  font-weight: 400;
+  font-size: small;
+  padding-left: 10px;
+}
+.payment {
+  width: 30%;
+  padding: 60px;
+  padding-right: 100px;
+}
+.payment img {
+  width: 100%;
 }

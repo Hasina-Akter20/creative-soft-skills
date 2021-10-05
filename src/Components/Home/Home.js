@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { Row } from "react-bootstrap";
+import { NavLink } from "react-router-dom";
 import Cart from "../Cart/Cart";
 import "./Home.css";
 
@@ -32,11 +33,17 @@ const Home = () => {
       </div>
 
       <div className="home-courses container">
+        <h1 className="courses-title">Our Courses</h1>
         <Row xs={1} md={2} className="g-4">
           {courses.slice(0, 4).map((course) => (
             <Cart key={course.code} course={course} />
           ))}
         </Row>
+      </div>
+      <div className="mb-5">
+        <NavLink to="/courses" className="courses-load fw-bolder">
+          Load More...
+        </NavLink>
       </div>
     </div>
   );
