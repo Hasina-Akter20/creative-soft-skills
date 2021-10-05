@@ -1,0 +1,13 @@
+/* footer  */
+.footer {
+  display: flex;
+  flex-direction: column;
+  font-weight: bold;
+  background-color: #1e2845;
+  color: white;
+}
+
+.footer-info {
+  display: flex;
+  justify-content: center;
+}

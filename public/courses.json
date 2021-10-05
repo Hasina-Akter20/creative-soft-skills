@@ -1,0 +1,59 @@
+[
+    {
+        "code": "05",
+        "title": "Java Porgramming",
+        "image": "https://storage.ning.com/topology/rest/1.0/file/get/8667507462?profile=RESIZE_710x",
+        "duration": "10 Hours",
+        "price": "$19"
+    },
+    {
+        "code": "06",
+        "title": "Web development",
+        "image": "https://www.theblogy.com/wp-content/uploads/2020/06/web-devwlop.png",
+        "duration": "25 Hours",
+        "price": "$25"
+    },
+    {
+        "code": "07",
+        "title": "Artificial Intelligence for Beginners",
+        "image": "https://d1m75rqqgidzqn.cloudfront.net/wp-data/2020/09/09202218/iStock-1207062970.jpg",
+        "duration": "15 Hours",
+        "price": "$31"
+    },
+    {
+        "code": "08",
+        "title": "JavaScript Tutorial for Beginners",
+        "image": "https://www.pragimtech.com/wp-content/uploads/2019/03/java-script.jpg",
+        "duration": "4 Hours",
+        "price": "$30"
+    },
+    {
+        "code": "01",
+        "title": "Python Programming",
+        "image": "https://img-c.udemycdn.com/course/240x135/629302_8a2d_2.jpg",
+        "duration": "15 Hours",
+        "price": "$33"
+    },
+    {
+        "code": "02",
+        "title": "Git & GitHub",
+        "image": "https://img-c.udemycdn.com/course/240x135/4188320_d3e3_3.jpg",
+        "duration": "5 Hours",
+        "price": "$20"
+    },
+    {
+        "code": "03",
+        "title": "Deep learning (with Python intro)",
+        "image": "https://img-c.udemycdn.com/course/240x135/4221858_0d53_2.jpg",
+        "duration": "6 Hours",
+        "price": "$13"
+    },
+    {
+        "code": "04",
+        "title": "Learn React",
+        "image": "https://effectussoftware.com/blog/wp-content/uploads/2020/02/What-is-React-JS-768x466.jpg",
+        "duration": "16 Hours",
+        "price": "$30"
+    }
+   
+]

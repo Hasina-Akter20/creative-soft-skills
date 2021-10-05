@@ -1,0 +1,34 @@
+.contact {
+  display: flex;
+  padding-top: 150px;
+}
+
+.contact-form {
+  text-align: left;
+  margin-top: 30px;
+}
+
+.contact-form h1 {
+  color: #4c39b5;
+  font-weight: bolder;
+  padding-bottom: 20px;
+}
+
+.contact-img img {
+  width: 100%;
+}
+
+.button {
+  color: #4c39b5;
+}
+
+.button {
+  color: white;
+  background-color: #4c39b5;
+  border: none;
+  border-radius: 5px;
+  padding: 8px 25px;
+}
+.button:hover {
+  background-color: #6151be;
+}
