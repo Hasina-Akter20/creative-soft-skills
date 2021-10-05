@@ -4,56 +4,64 @@
         "title": "Java Porgramming",
         "image": "https://storage.ning.com/topology/rest/1.0/file/get/8667507462?profile=RESIZE_710x",
         "duration": "10 Hours",
-        "price": "$19"
+        "price": "$19",
+        "description":"Java is among the most popular programming languages out there, mainly because of how versatile and compatible it is. Java can be used for a large number of things, including software development."
     },
     {
         "code": "06",
         "title": "Web development",
         "image": "https://www.theblogy.com/wp-content/uploads/2020/06/web-devwlop.png",
         "duration": "25 Hours",
-        "price": "$25"
+        "price": "$25",
+        "description":"Become a full-stack web developer with just one course. HTML, CSS, Javascript, Node, React, MongoDB and more! Make REAL web applications using cutting-edge technologies"
     },
     {
         "code": "07",
         "title": "Artificial Intelligence for Beginners",
         "image": "https://d1m75rqqgidzqn.cloudfront.net/wp-data/2020/09/09202218/iStock-1207062970.jpg",
         "duration": "15 Hours",
-        "price": "$31"
+        "price": "$31",
+        "description":"Learn how to use NumPy, Pandas, Seaborn , Matplotlib , Plotly , Scikit-Learn , Machine Learning, Tensorflow , and more!"
     },
     {
         "code": "08",
         "title": "JavaScript Tutorial for Beginners",
         "image": "https://www.pragimtech.com/wp-content/uploads/2019/03/java-script.jpg",
         "duration": "4 Hours",
-        "price": "$30"
+        "price": "$30",
+        "description":"Learn the core Java skills needed to apply for Java developer positions in just 14 hours. Be able to sit for and pass the Oracle Java Certificate exam if you choose."
     },
     {
         "code": "01",
         "title": "Python Programming",
         "image": "https://img-c.udemycdn.com/course/240x135/629302_8a2d_2.jpg",
         "duration": "15 Hours",
-        "price": "$33"
+        "price": "$33",
+        "description":"Learn how to use NumPy, Pandas, Seaborn , Matplotlib , Plotly , Scikit-Learn , Machine Learning, Tensorflow , and more!"
     },
     {
         "code": "02",
         "title": "Git & GitHub",
         "image": "https://img-c.udemycdn.com/course/240x135/4188320_d3e3_3.jpg",
         "duration": "5 Hours",
-        "price": "$20"
+        "price": "$20",
+        "description":"Learn all you need to work with Git, including all about repositories, commits, branches & more"
     },
     {
         "code": "03",
         "title": "Deep learning (with Python intro)",
         "image": "https://img-c.udemycdn.com/course/240x135/4221858_0d53_2.jpg",
         "duration": "6 Hours",
-        "price": "$13"
+        "price": "$13",
+        "description":"Master deep learning in PyTorch using an experimental scientific approach, with lots of examples and practice problems."
     },
     {
         "code": "04",
         "title": "Learn React",
         "image": "https://effectussoftware.com/blog/wp-content/uploads/2020/02/What-is-React-JS-768x466.jpg",
         "duration": "16 Hours",
-        "price": "$30"
+        "price": "$30",
+        "description":"Build powerful, fast, user-friendly and reactive web apps. Provide amazing user experiences by leveraging the power of JavaScript with ease."
     }
    
 ]

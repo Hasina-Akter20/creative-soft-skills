@@ -19,7 +19,6 @@ const Home = () => {
       >
         <div className="home-banner">
           <h1>
-            {" "}
             <span className="title-color">The New Way To </span> <br /> Learn
             Skill With Us.
           </h1>
